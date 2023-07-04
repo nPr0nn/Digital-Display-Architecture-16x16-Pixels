@@ -1,2 +1,1 @@
-Made with the software Digital (https://github.com/hneemann/Digital). My university assignment where we were suppose to do a project using finite state machines.
-Due to my interest in computer how computer display data i decided to propose an architeture for a digital 16x16 pixels display.
+Welcome to Pixel16x16, a project developed for my university assignment using the powerful Digital software (https://github.com/hneemann/Digital). As part of the assignment, I explored the fascinating world of finite state machines. Given my passion for understanding how computers display data, I proposed an architecture for a digital 16x16 pixels display. Join me on this exciting journey into the realm of digital design and pixel manipulation!
