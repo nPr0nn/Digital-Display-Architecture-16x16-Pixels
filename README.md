@@ -1,1 +1,2 @@
+# Digital Sisplay - Pixel16x16
 Welcome to Pixel16x16, a project developed for my university assignment using the powerful Digital software (https://github.com/hneemann/Digital). As part of the assignment, I explored the fascinating world of finite state machines. Given my passion for understanding how computers display data, I proposed an architecture for a digital 16x16 pixels display. Join me on this exciting journey into the realm of digital design and pixel manipulation!
